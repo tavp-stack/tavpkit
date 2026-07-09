@@ -14,8 +14,8 @@ Satu perintah, dapat aplikasi yang langsung jalan dengan fitur umum.
 
 ## Requirements
 
-- PHP 8.1+
-- Phalcon 5.x
+- PHP 8.3+
+- Phalcon 5.16+
 - tavp-core
 - tavpid
 

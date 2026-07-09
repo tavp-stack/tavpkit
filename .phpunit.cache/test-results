@@ -1,0 +1,1 @@
+{"version":2,"defects":[],"times":{"Tavp\\Kit\\Tests\\KitTest::testRegisterAndRetrieveKit":0.015,"Tavp\\Kit\\Tests\\KitTest::testUnknownKitReturnsNull":0.001,"Tavp\\Kit\\Tests\\KitTest::testKitWithoutMigrationsDoesNotRequireDatabase":0.001}}
